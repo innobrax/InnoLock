@@ -1,0 +1,4 @@
+// Formato legado compatível com Gradle 6.5.
+// Não usa dependencyResolutionManagement() nem plugins DSL.
+rootProject.name = 'InnoLockTesteBLEApp'
+include ':app'

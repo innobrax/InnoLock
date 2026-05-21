@@ -1,0 +1,24 @@
+// Projeto Android em formato legado para compatibilidade com Gradle 6.5.
+// Android Gradle Plugin 4.1.3 é compatível com Gradle 6.5.
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.1.3'
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+        jcenter()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

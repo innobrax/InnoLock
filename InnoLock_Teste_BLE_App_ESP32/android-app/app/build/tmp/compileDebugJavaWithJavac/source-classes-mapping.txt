@@ -1,0 +1,6 @@
+br/com/innobrax/innolockteste/BuildConfig.java
+ br.com.innobrax.innolockteste.BuildConfig
+br/com/innobrax/innolockteste/MainActivity.java
+ br.com.innobrax.innolockteste.MainActivity
+ br.com.innobrax.innolockteste.MainActivity$1
+ br.com.innobrax.innolockteste.MainActivity$2
