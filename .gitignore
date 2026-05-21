@@ -1,0 +1,30 @@
+# Android / Gradle
+.gradle/
+build/
+app/build/
+local.properties
+*.apk
+*.aab
+
+# Arduino / ESP32
+*.bin
+*.elf
+*.map
+*.hex
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Temporários
+*.tmp
+*.log
+
+# Configurações sensíveis
+.env
+config.json
+secrets.json
