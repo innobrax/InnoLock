@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Cristophe\\Innobrax\\Projetos\\git\\InnoLock\\InnoLock_Teste_BLE_App_ESP32\\android-app\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "outputFile": "C:\\Cristophe\\Innobrax\\Projetos\\git\\InnoLock\\android\\InnoLock_App\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Cristophe\\Innobrax\\Projetos\\git\\InnoLock\\InnoLock_Teste_BLE_App_ESP32\\android-app\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Cristophe\\Innobrax\\Projetos\\git\\InnoLock\\android\\InnoLock_App\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
